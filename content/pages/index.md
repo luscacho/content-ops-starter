@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/avatar bonitinho.png
+      url: /images/Design sem nome.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
