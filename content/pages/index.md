@@ -7,7 +7,7 @@ sections:
       text: LUCAS ESPÍNDOLAPSICÓLOGO E ANALISTA DO COMPORTAMENTO
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: CRP SP - 06/187134
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
