@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: LUCAS ESPÍNDOLA PSICÓLOGO E ANALISTA DO COMPORTAMENTO
+      text: LUCAS ESPÍNDOLA
       color: text-dark
       type: TitleBlock
       styles:
