@@ -12,10 +12,8 @@ sections:
           textAlign: left
           fontWeight: 400
     subtitle: PSICÓLOGO E ANALISTA DO COMPORTAMENTO
-    text: >+
-      “A relação psicoterapêutica é uma oportunidade ímpar para influências
-      recíprocas com ganhos para ambos os protagonistas.”  Guilhardi, H.L.
-
+    text: |
+      CRP 06/187134
     actions:
       - label: Saiba mais
         altText: ''
