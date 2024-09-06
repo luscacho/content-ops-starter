@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: CRP SP - 06/187134
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      “A relação psicoterapêutica é uma oportunidade ímpar para influências
+      recíprocas com ganhos para ambos os protagonistas.”  Guilhardi, H.L.
+
     actions:
       - label: Get started
         altText: ''
