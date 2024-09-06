@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-          fontWeight: 400
+          fontWeight: 700
     subtitle: CRP SP - 06/187134
     text: >+
       “A relação psicoterapêutica é uma oportunidade ímpar para influências
