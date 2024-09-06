@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: right
           fontWeight: 400
     subtitle: CRP SP - 06/187134
     text: >+
