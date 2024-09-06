@@ -7,6 +7,9 @@ sections:
       text: LUCAS ESPÍNDOLA PSICÓLOGO E ANALISTA DO COMPORTAMENTO
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: justify
     subtitle: CRP SP - 06/187134
     text: >+
       “A relação psicoterapêutica é uma oportunidade ímpar para influências
