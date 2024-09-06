@@ -13,7 +13,7 @@ sections:
       recíprocas com ganhos para ambos os protagonistas.”  Guilhardi, H.L.
 
     actions:
-      - label: Get started
+      - label: Saiba mais
         altText: ''
         url: /
         showIcon: false
