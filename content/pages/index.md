@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: LUCAS ESPÍNDOLAPSICÓLOGO E ANALISTA DO COMPORTAMENTO
+      text: LUCAS ESPÍNDOLA PSICÓLOGO E ANALISTA DO COMPORTAMENTO
       color: text-dark
       type: TitleBlock
     subtitle: CRP SP - 06/187134
